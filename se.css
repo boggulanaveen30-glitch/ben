@@ -1,0 +1,29 @@
+*{
+    color: var(blueviolet);
+    background-color: bisque;
+
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+    
+}
+.a{
+    text-align: center;
+    margin: 50px;
+    border-radius: 25px;
+}
+.a:hover{
+    cursor: pointer;
+    color: black;
+    background-color: blue;
+}
+.b{
+    border-radius: 25px;
+    color:aliceblue;
+}
+.b:hover{
+    cursor: pointer;
+    color: aqua;
+    background-color: black;
+}
